@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Projects\github\opengl-models\statue-3d-model\Source.cpp(446,17): warning C4101: 'vVerts': unreferenced local variable
+D:\Projects\github\opengl-models\statue-3d-model\Source.cpp(448,17): warning C4101: 'vTex': unreferenced local variable
+D:\Projects\github\opengl-models\statue-3d-model\Source.cpp(447,17): warning C4101: 'vNorms': unreferenced local variable
+  statue-3d-model.vcxproj -> D:\Projects\github\opengl-models\statue-3d-model\Debug\statue-3d-model.exe

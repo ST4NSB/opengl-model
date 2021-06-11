@@ -1,0 +1,2 @@
+D:\Projects\github\opengl-models\statue-3d-model\Debug\statue-3d-model.exe
+D:\Projects\github\opengl-models\statue-3d-model\Debug\statue-3d-model.pdb
